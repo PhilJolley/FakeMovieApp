@@ -1,0 +1,154 @@
+#mainNav{
+  background-color: black;
+}
+#brand{
+  color: white;
+}
+#brand:hover{
+  color: grey;
+}
+.navbar-default .navbar-toggle {
+		background-color: white;
+}
+.navbar .nav > li > a {
+    color:  white;
+}
+.navbar .nav > li > a:hover {
+    color:  grey;
+}
+#try{
+  margin-bottom: -30px;
+}
+#AndAction{
+  height: 100px;
+}
+#Vid{
+  background-color: black;
+  margin-top: -40px;
+}
+#Bkg{
+  background-color: pink;
+}
+#AA{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#AEOM{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#MovieList:hover{
+  background-color: rgb(231,76,60);
+  color: white;
+}
+#BA{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#BF{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#C3{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#DM{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#EM{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#FF{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#GO{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#HA{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#It{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#JB{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#KS{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#LB{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#TM{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#NER{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#OV{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#P{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#Q{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#R{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#S{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#T19{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#U{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#V{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#W{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#X{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#Y{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#Z{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#Z2{
+  margin-left:auto;
+  margin-right: 700px;
+}
+#panel{
+  background-color: lightblue;
+}
